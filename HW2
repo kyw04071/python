@@ -1,5 +1,7 @@
-#Exercise 1 (Strings):Get the object type
 #학번:2025164876 이름:김영우
+
+
+#Exercise 1 (Strings):Get the object type
 A = "1"
 B = "2"
 C = A + B
