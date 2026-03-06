@@ -1,25 +1,17 @@
-#Exercise 2 (Typtes):Get the object type
+#Exercise 1 (Strings):Get the object type
 #학번:2025164876 이름:김영우
-type(12.0)
-
-
-#Exercise 3 (Typtes):Types
-type(6/2) 
-type(6//2)
-
-#Exercise 4 (Typtes):Expression
-30 + 2 * 60
-(30 + 2) * 60
-
-#Exercise 5 (Typtes):Expression and Varialbes in Python
-1. What is the value of x where x = 3 + 2 * 2
-x = 3 + 2 * 2
-print(x)
-
-2. What is the value of y where y = (3 + 2) * 2?
-y = (3 + 2) * 2
-print(y)
-
-3. What is the value of z where z = x + y?
-z = x + y
-print(z)
+A = "1"
+B = "2"
+C = A + B
+D = "ABCDEFG"
+print(D[0:3])
+E = 'clocrkr1e1c1t'
+print(E[::2])
+print("\\")
+F = "You are wrong"
+F.upper()
+G = "Mary had a little lamb Little lamb, little lamb Mary had a little lamb \
+Its fleece was white as snow And everywhere that Mary went Mary went, Mary went \
+Everywhere that Mary went The lamb was sure to go"
+G.find(snow)
+G.replace("Mary", "Bob")
