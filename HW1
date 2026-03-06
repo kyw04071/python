@@ -1,3 +1,29 @@
 #Exercise 1 (Typtes):Your First Program
 #학번:2025164876 이름:김영우
 print("Hello, world!") #Print the traditional hello world
+
+#Exercise 2 (Typtes):Get the object type
+#학번:2025164876 이름:김영우
+type(12.0)
+
+
+#Exercise 3 (Typtes):Types
+type(6/2) 
+type(6//2)
+
+#Exercise 4 (Typtes):Expression
+30 + 2 * 60
+(30 + 2) * 60
+
+#Exercise 5 (Typtes):Expression and Varialbes in Python
+1. What is the value of x where x = 3 + 2 * 2
+x = 3 + 2 * 2
+print(x)
+
+2. What is the value of y where y = (3 + 2) * 2?
+y = (3 + 2) * 2
+print(y)
+
+3. What is the value of z where z = x + y?
+z = x + y
+print(z)
