@@ -1,0 +1,19 @@
+#학번:2025164876 이름:김영우
+
+
+#Exercise : Quiz on Conditions
+
+rating = 8.5
+if rating > 8:
+    print ("This album is Amazing!")
+
+
+rating = 8.5
+if rating > 8:
+    print ("this album is amazing")
+else:
+    print ("this album is ok")
+
+album = 1980
+if album <= 1980 or album == 1991 or album == 1993:
+  print("album is came out", album)
