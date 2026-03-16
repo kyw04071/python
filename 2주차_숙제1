@@ -16,15 +16,15 @@ type(6//2)
 (30 + 2) * 60
 
 #Exercise 5 (Typtes):Expression and Varialbes in Python
-1. What is the value of x where x = 3 + 2 * 2
+#1. What is the value of x where x = 3 + 2 * 2
 x = 3 + 2 * 2
 print(x)
 
-2. What is the value of y where y = (3 + 2) * 2?
+#2. What is the value of y where y = (3 + 2) * 2?
 y = (3 + 2) * 2
 print(y)
 
-3. What is the value of z where z = x + y?
+#3. What is the value of z where z = x + y?
 z = x + y
 print(z)
 
