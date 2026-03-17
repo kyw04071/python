@@ -1,0 +1,17 @@
+#학번:2025164876 이름:김영우
+
+
+#Exercise : Quiz on Functions
+
+def divider(a, b):
+    return(a/b)
+
+    
+def con(a, b):
+    return(a + b)
+    
+print(con(1,1))
+
+
+print(con(['a', 1], ['b', 1]))
+print(con([2, 1], [2, 1]))
