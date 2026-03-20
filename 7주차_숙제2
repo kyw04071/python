@@ -2,7 +2,6 @@
 
 
 #Exercise : Quiz on Files
-import os
 from google.colab import drive
 drive.mount('/content/gdrive')
 
