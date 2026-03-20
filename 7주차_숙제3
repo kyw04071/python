@@ -1,0 +1,21 @@
+#학번:2025164876 이름:김영우
+
+
+#Exercise : Quiz on DataFrame
+
+
+from google.colab import drive
+drive.mount('/content/gdrive')
+
+csv_path = '/content/gdrive/My Drive/Colab Notebooks/TopSellingAlbums.csv'
+df = pd.read_csv(csv_path)
+                
+q = df[['Rating']]
+print(q)
+
+q = df[['Released', 'Artist']]
+print(q)
+
+print(df.iloc[1, 2])
+
+                
